@@ -56,6 +56,11 @@ vendor/lib/libnetmgr.so
 vendor/lib/libril-qc-qmi-1.so
 vendor/lib/libril-qcril-hook-oem.so
 
+# NFC
+lib/hw/nfc.default.so
+lib/hw/nfc.lg.so
+vendor/firmware/libpn544_fw.so
+
 # Sensors
 bin/sensors.qcom
 vendor/lib/hw/sensors.msm8974.so
